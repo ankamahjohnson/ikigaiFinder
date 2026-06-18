@@ -101,5 +101,9 @@ If the Gemini API is unavailable, slow, or returns an unexpected response, the a
 
 
 ## 📝
+> Note: This project uses a client-side API key for 
+> demonstration purposes. A production version would 
+> proxy requests through a backend server.
+
 Made with ❤️ as a frontend practice project.
 
