@@ -24,7 +24,7 @@ Your ikigai is the point where all four overlap.
 ## Features
 
 ### Multi-Screen SPA Flow
-A smooth single-page application with four distinct screens — Welcome, Previous Result, Quiz, and Result — each transitioning with slide left and right animations that feel native and intentional.
+A smooth single-page application with four distinct screens (Welcome, Previous Result, Quiz, and Result), each transitioning with slide left and right animations that feel native and intentional.
 
 ### 20-Question Assessment
 Questions are organised across all four ikigai pillars. Each question presents four carefully considered options designed to surface genuine patterns in how a person thinks, works, and finds meaning.
