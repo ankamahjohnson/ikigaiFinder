@@ -10,7 +10,7 @@ View Live 🌐 https://ankamahjohnson.github.io/ikigaiFinder/
 
 ## What is Ikigai?
 
-Ikigai (生き甲斐) is a Japanese concept meaning "reason for being." It sits at the intersection of four pillars:
+Ikigai is a Japanese concept meaning "reason for being." It sits at the intersection of four pillars:
 
 - **What you love** — the activities that energise and fulfil you
 - **What you are good at** — your natural and developed skills
