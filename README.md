@@ -4,7 +4,7 @@ A modern, AI-powered web application that helps users discover their ikigai, the
 ---
 
 ## Live Demo
-View Live 🌐 https://ankamahjohnson.github.io/ikigaiFinder/
+Click to view 🌐 https://ankamahjohnson.github.io/ikigaiFinder/
 
 ---
 
