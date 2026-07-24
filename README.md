@@ -45,7 +45,7 @@ Results are classified into one of five distinct ikigai profiles, each with its 
 - **The Purposeful Entrepreneur** — a builder of organisations, movements, and legacies
 
 ### Overlapping Circles Venn Diagram
-An animated SVG-style venn diagram visualises the four ikigai pillars on both the welcome screen and the result screen. The welcome diagram floats gently on a loop. The result diagram springs in with a scale animation on reveal.
+An animated SVG style venn diagram visualises the four ikigai pillars on both the welcome screen and the result screen. The welcome diagram floats gently on a loop. The result diagram springs in with a scale animation on reveal.
 
 ### Seven Career and Project Suggestions
 Each result type includes seven specific, well-described career and project paths tailored to that ikigai profile, displayed with staggered entrance animations on the result screen.
