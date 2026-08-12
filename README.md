@@ -1,5 +1,5 @@
 # ikigai Finder
-A modern, AI-powered web application that helps users discover their ikigai, the Japanese philosophy of finding your reason for being through a guided 20 question assessment, personalised AI analysis, and actionable career guidance.  Built with HTML, CSS, & JavaScript. Powered by the Gemini AI API.  
+A modern, AI-powered web application that helps users discover their ikigai, the Japanese philosophy of finding your reason for being through a guided 20 question assessment, personalised AI analysis, & actionable career guidance.  Built with HTML, CSS, and JavaScript. Powered by the Gemini AI API.  
 
 ---
 
@@ -24,7 +24,7 @@ Your ikigai is the point where all four overlap.
 ## Features
 
 ### Multi-Screen SPA Flow
-A smooth single-page application with four distinct screens (Welcome, Previous Result, Quiz, & Result), each transitioning with slide left and right animations that feel native and intentional.
+A smooth single-page application with four distinct screens (Welcome, Previous Result, Quiz, and Result), each transitioning with slide left and right animations that feel native & intentional.
 
 ### 20 Question Assessment
 Questions are organised across all four ikigai pillars. Each question presents four carefully considered options designed to surface genuine patterns in how a person thinks, works, and finds meaning.
@@ -36,11 +36,11 @@ The moment the user completes the quiz, results are calculated locally using a w
 In the background, after the instant result renders, the app sends all 20 answers to the Gemini 1.5 Flash API. Gemini generates a unique, deeply personal summary paragraph written specifically for that user based on the patterns it reads in their answers. When the AI response arrives, the summary fades out and the personalised version typewriters itself in, with a toast notification confirming the upgrade.
 
 ### Five Ikigai Archetypes
-Results are classified into one of five distinct ikigai profiles, each with its own title, center word, summary, four pillar descriptions, & seven tailored career paths:
+Results are classified into one of five distinct ikigai profiles, each with its own title, center word, summary, four pillar descriptions, and seven tailored career paths:
 
 - **The Creative Innovator** — driven by making, designing, and bringing ideas to life
 - **The Empathetic Guide** — called toward healing, teaching, and human connection
-- **The Analytical Builder** — energised by systems, engineering, and solving hard problems
+- **The Analytical Builder** — energised by systems, engineering, & solving hard problems
 - **The Visionary Educator** — passionate about ideas, learning, and sharing knowledge
 - **The Purposeful Entrepreneur** — a builder of organisations, movements, and legacies
 
