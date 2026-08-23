@@ -1,5 +1,5 @@
 # ikigai Finder
-A modern, AI-powered web application that helps users discover their ikigai, the Japanese philosophy of finding your reason for being through a guided 20 question assessment, personalised AI analysis, & actionable career guidance.  Built with HTML, CSS, and JavaScript. Powered by the Gemini AI API.  
+A modern, AI-powered web application that helps users discover their ikigai, the Japanese philosophy of finding your reason for being through a guided 20 question assessment, personalised AI analysis, & actionable career guidance.  Built with HTML, CSS, & JavaScript. Powered by the Gemini AI API.  
 
 ---
 
@@ -24,10 +24,10 @@ Your ikigai is the point where all four overlap.
 ## Features
 
 ### Multi-Screen SPA Flow
-A smooth single-page application with four distinct screens (Welcome, Previous Result, Quiz, and Result), each transitioning with slide left and right animations that feel native & intentional.
+A smooth single-page application with four distinct screens (Welcome, Previous Result, Quiz, and Result), each transitioning with slide left and right animations that feel native and intentional.
 
 ### 20 Question Assessment
-Questions are organised across all four ikigai pillars. Each question presents four carefully considered options designed to surface genuine patterns in how a person thinks, works, and finds meaning.
+Questions are organised across all four ikigai pillars. Each question presents four carefully considered options designed to surface genuine patterns in how a person thinks, works, & finds meaning.
 
 ### Instant Local Results
 The moment the user completes the quiz, results are calculated locally using a weighted scoring algorithm with zero network delay. The result screen appears immediately with the full ikigai type, venn diagram, summary, pillar breakdown, & career paths.
