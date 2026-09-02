@@ -1,5 +1,5 @@
 # ikigai Finder
-A modern, AI-powered web application that helps users discover their ikigai, the Japanese philosophy of finding your reason for being through a guided 20 question assessment, personalised AI analysis, and actionable career guidance.  Built with HTML, CSS, & JavaScript. Powered by the Gemini AI API.  
+A modern, AI-powered web application that helps users discover their ikigai, the Japanese philosophy of finding your reason for being through a guided 20 question assessment, personalised AI analysis, & actionable career guidance.  Built with HTML, CSS, and JavaScript. Powered by the Gemini AI API.  
 
 ---
 
@@ -13,7 +13,7 @@ Click to view 🌐 https://ankamahjohnson.github.io/ikigaiFinder/
 Ikigai is a Japanese concept meaning "reason for being." It sits at the intersection of four pillars:
 
 - **What you love** — the activities that energise and fulfil you
-- **What you are good at** — your natural & developed skills
+- **What you are good at** — your natural and developed skills
 - **What the world needs** — where your contribution creates real value
 - **What you can be paid for** — what sustains you financially
 
@@ -24,7 +24,7 @@ Your ikigai is the point where all four overlap.
 ## Features
 
 ### Multi-Screen SPA Flow
-A smooth single-page application with four distinct screens (Welcome, Previous Result, Quiz, and Result), each transitioning with slide left & right animations that feel native and intentional.
+A smooth single-page application with four distinct screens (Welcome, Previous Result, Quiz, and Result), each transitioning with slide left and right animations that feel native and intentional.
 
 ### 20 Question Assessment
 Questions are organised across all four ikigai pillars. Each question presents four carefully considered options designed to surface genuine patterns in how a person thinks, works, & finds meaning.
